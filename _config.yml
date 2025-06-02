@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "images/selfie_LY.png"
   name             : "Long Ye"
-  pronouns         : "He"  
+  # pronouns         : "He"  
   bio              : "Intelligent manufacturing empowered by advanced AI"
   location         : "Edinburgh, the UK"
   employer         : "University of Edinburgh"
