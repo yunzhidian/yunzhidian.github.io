@@ -1,152 +1,124 @@
 {
-  "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
-  },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "KU Leuven",
+      "degree": "Ph.D. in Intelligent Manufacturing",
+      "years": "2019 – 2023",
+      "details": "Full scholarship; Research on electrical discharge machining, process monitoring, and micro-/nano-manufacturing. Supervisor: Prof. Dominiek Reynaerts"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "Shanghai Jiao Tong University",
+      "degree": "M.A. in Mechanical Engineering",
+      "years": "2016 – 2019",
+      "details": "Research on EDM, precision metrology, and process control."
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Electronic Science and Technology of China",
+      "degree": "B.A. in Mechanical & Electronics Engineering",
+      "years": "2012 – 2016",
+      "details": "Thesis: Development and control for a 3-DOF RPS parallel robot."
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+
+  "experience": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "position": "Research Fellow",
+      "institution": "University of Edinburgh (Generative AI Lab)",
+      "years": "2025 – Present",
+      "details": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "position": "Postdoctoral Research Associate",
+      "institution": "University of Edinburgh",
+      "years": "2024 – Present",
+      "details": "Research on multi-field machining, plasma-assisted precision machining, additive and digital manufacturing."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "position": "KTP Associate",
+      "institution": "University of Edinburgh & PlasmaTrack Ltd",
+      "years": "2024",
+      "details": "DC arc plasma for rail track cleaning and process optimization."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "title": "Teaching Fellow",
+      "institution": "University of Edinburgh",
+      "years": "2025",
+      "details": "Courses: Conceptual Design for Mechanical Engineers (3rd year), Digital Manufacture (5th year)"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "title": "Guest Lecturer",
+      "institution": "University of Edinburgh",
+      "years": "2024",
+      "details": "Metrology (MSc): Machine learning applications in metrology"
+    },
+    {
+      "title": "Teaching Assistant",
+      "institution": "KU Leuven",
+      "years": "2019 – 2023",
+      "details": "Creative Problem Solving (3rd year BSc); involved in labs, assignments, presentations"
     }
   ],
-  "portfolio": [
+
+  "visits": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "Visiting Fellow",
+      "institution": "Northwestern University",
+      "years": "Sep – Nov 2023",
+      "details": "Mechanistic-AI for advanced precision manufacturing"
+    },
+    {
+      "title": "Visiting Student",
+      "institution": "Tokyo University of Agriculture and Technology",
+      "years": "Nov 2023",
+      "details": "Sakura Science Exchange Program: ML-assisted manufacturing process monitoring"
+    },
+    {
+      "title": "Visiting Researcher",
+      "institution": "RWTH Aachen University",
+      "years": "Sep 2022",
+      "details": "Collaborative research on EDM monitoring"
     }
+  ],
+
+  "awards": [
+    {
+      "title": "EPSRC IAA Innovation Competition Award",
+      "year": "2024"
+    },
+    {
+      "title": "Best Presentation, Vision Forum for International Young Scholars",
+      "year": "2024"
+    },
+    {
+      "title": "Excellent Skills Grant, Industry 4.0 Summer School (FH Aachen)",
+      "year": "2022"
+    },
+    {
+      "title": "Mitsubishi Electrics Scholarship",
+      "year": "2017"
+    }
+  ],
+
+  "affiliations": [
+    {
+      "title": "Scientific Committee Member, EUSPEN",
+      "years": "2024 – Present"
+    },
+    {
+      "title": "President, Edinburgh Materials Society (IOM3 Local Society)"
+    },
+    {
+      "title": "Member, IMechE"
+    }
+  ],
+
+  "skills": [
+    "Design of experiments (DoE): design expert, ANOVA",
+    "CAD/CAM: AutoCAD, Creo, UG/NX, ESPRIT",
+    "Programming: Python, C/C++, MATLAB",
+    "Machine learning: scikit-learn, Keras, TensorFlow, PyTorch"
   ]
 }
