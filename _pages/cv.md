@@ -9,9 +9,9 @@ author_profile: true
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Intelligent Manufacturing, 08/2019 - 03/2024
+* M.S. in Mechanical Engineering, Shanghai Jiao Tong University, 09/2016 - 06/2019
+* B.S. in Mechanical Engineering, University of Electronic Science and Technology of China, 09/2012 - 06/2016
 
 Work experience
 ======
